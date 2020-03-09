@@ -540,7 +540,7 @@ button.get_in_touch--btn:hover {
       -ms-flex: 1;
           flex: 1;
   width: 100%;
-  height: 120vh;
+  height: 130vh;
 }
 
 .section__three .info_two {
@@ -728,7 +728,7 @@ button.get_in_touch--btn:hover {
 
 /*--------SECTION FIVE-------*/
 .section__five {
-  background: url("/assets/quotes_bg.svg");
+  background: url("./assets/quotes_bg.svg");
   background-size: cover;
   padding: 50px;
   height: 60vh;
